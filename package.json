@@ -1,0 +1,14 @@
+{
+  "name": "cronizer",
+  "version": "0.0.1",
+  "description": "English to Cron conversion tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "cron"
+  ],
+  "author": "Brendan O'Brien",
+  "license": "ISC"
+}
